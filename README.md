@@ -1,23 +1,4 @@
 # SkillGraph — Knowledge Graph Embedding on Skill and Career Recommendation
-
-Hansamalya B (25MDT1050) · Moniisha S (25MDT1112) · Guide: Dr. Manivannan A
-M.Sc. Data Science, Department of Mathematics, School of Advanced Sciences, VIT Chennai
-
-A website for the project: a heterogeneous knowledge graph of O*NET occupations, skills and Coursera courses, weighted with
-LinkedIn job-posting demand, embedded with Node2Vec and refined with a Heterogeneous Graph Transformer (HGT).
-
-## Run it in VS Code
-1. **File ▸ Open Folder…** → this folder. Accept the recommended extensions.
-2. **Terminal ▸ Run Task… ▸ 1. Setup: create .venv and install website requirements** (Flask, pypdf, python-docx — small).
-   Select the `.venv` interpreter when VS Code asks.
-3. **Run and Debug (Ctrl+Shift+D) ▸ ▶ Run SkillGraph ▸ F5.** The browser opens http://127.0.0.1:5000.
-4. Click **Continue as guest**, then drop a résumé from `samples/` on the dashboard.
-
-Other options: double-click `run.bat` (Windows) / `./run.sh` (macOS, Linux), or right-click `index.html` ▸ *Open with Live Server*.
-Opening the HTML files directly from disk does not work: browsers block them from reading `data/kg_web.json`.
-
-Tests: **Run and Debug ▸ ✔ Run tests** or `python backend/test_app.py` (8 tests: data, ranking, explanations, API, résumé upload).
-
 ## Pages
 | Page | What it shows |
 |---|---|
