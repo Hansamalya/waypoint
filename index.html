@@ -1,0 +1,49 @@
+<!DOCTYPE html><html lang="en"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover"><title>Knowledge-graph career recommendation — SkillGraph</title><link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🕸️</text></svg>"><link rel="stylesheet" href="css/style.css"></head>
+<body data-page="index">
+<nav class="nav" aria-label="Main"><div class="wrap"><a class="brand" href="index.html"><svg viewBox="0 0 32 32" aria-hidden="true"><circle cx="16" cy="16" r="15" fill="#1b2a41"/><path d="M10 21 L16 10 L22 21 Z" fill="none" stroke="#f2a541" stroke-width="1.6"/><circle cx="16" cy="10" r="3" fill="#f2a541"/><circle cx="10" cy="21" r="3" fill="#7fd1c7"/><circle cx="22" cy="21" r="3" fill="#ef8a97"/></svg> SkillGraph</a>
+<button class="nav-toggle" aria-label="Open menu" aria-expanded="false" onclick="const o=document.getElementById('navLinks').classList.toggle('open');this.setAttribute('aria-expanded',o)"><span></span><span></span><span></span></button>
+<div class="nav-links" id="navLinks"><a href="#how">How it works</a><a href="#careers">Occupations</a><a href="results.html">Results</a><a href="login.html">Sign in</a></div></div></nav>
+<header class="hero">
+  <div class="hero-bg photo" data-initial=""><img src="https://images.unsplash.com/photo-1522071820081-009f0129c71c?auto=format&fit=crop&w=2000&q=75" alt="" referrerpolicy="no-referrer"></div>
+  <svg class="hero-route" viewBox="0 0 1440 900" preserveAspectRatio="xMidYMid slice" aria-hidden="true">
+    <path class="path draw" d="M 860 760 C 930 640 1010 650 1040 560 S 980 400 1110 350 S 1260 260 1230 150"/>
+    <g class="pin" style="animation-delay:.5s"><circle cx="860" cy="760" r="9" fill="#7fd1c7"/><text x="884" y="766">Python · SQL · Excel</text></g>
+    <g class="pin" style="animation-delay:1.2s"><circle cx="1040" cy="560" r="9" fill="#ef8a97"/><text x="1064" y="566">Missing: Machine Learning</text></g>
+    <g class="pin" style="animation-delay:1.8s"><circle cx="1110" cy="350" r="9" fill="#f2a541"/><text x="1134" y="356">Course —TEACHES→ skill</text></g>
+    <g class="pin" style="animation-delay:2.6s"><path d="M1230 118c-13 0-23 10-23 22 0 17 23 40 23 40s23-23 23-40c0-12-10-22-23-22z" fill="#f2a541"/><circle cx="1230" cy="140" r="8" fill="#1b2a41"/><text x="1264" y="146" style="font-weight:700">Data Scientist</text></g>
+  </svg>
+  <div class="wrap hero-content">
+    <h1>See which careers your skills connect to.</h1>
+    <p class="lede">SkillGraph links occupations, skills and courses in one knowledge graph, ranks careers with a Heterogeneous Graph Transformer, and shows exactly which skills you have, which you are missing and which course closes each gap.</p>
+    <div class="hero-actions"><a class="btn btn-route" data-start href="login.html">Find my careers</a><a class="btn btn-ghost" href="results.html">See the evaluation</a></div>
+  </div>
+</header>
+<section class="stat-band" aria-label="The knowledge graph"><div class="wrap">
+  <div><strong id="stNodes">731</strong><span>nodes: occupations, skills and courses</span></div>
+  <div><strong id="stEdges">3,943</strong><span>weighted relationships in the graph</span></div>
+  <div><strong id="stPost">11,672</strong><span>LinkedIn postings matched to occupations</span></div>
+  <div><strong id="stAuc">0.863</strong><span>HGT link-prediction AUC on held-out edges</span></div>
+</div></section>
+<section class="section contours" id="how"><div class="wrap">
+  <div class="section-head"><h2>From raw data to an explained recommendation</h2><p class="lede">The same nine-phase pipeline as the project, condensed into five stops.</p></div>
+  <div class="journey">
+    <div class="stop"><div class="dot">1</div><h3>Build the graph</h3><p>O*NET occupations, LinkedIn postings and Coursera courses become typed nodes and edges.</p></div>
+    <div class="stop"><div class="dot">2</div><h3>Weight every edge</h3><p>Recent postings count more; skills confirmed by two sources earn higher confidence.</p></div>
+    <div class="stop"><div class="dot">3</div><h3>Learn embeddings</h3><p>Node2Vec captures structure; a two-layer HGT refines it with relation-aware attention.</p></div>
+    <div class="stop"><div class="dot">4</div><h3>Map your skills</h3><p>Your résumé is read in the browser and matched to skill nodes in the graph.</p></div>
+    <div class="stop"><div class="dot">5</div><h3>Rank and explain</h3><p>Each career comes with matched skills, missing skills, graph paths and courses.</p></div>
+  </div></div></section>
+<section class="section" id="careers" style="padding-top:0"><div class="wrap">
+  <div class="section-head"><h2>27 occupations across six domains</h2><p class="lede">AI and machine learning, data analytics, cloud and DevOps, software and web, cybersecurity, and UI/UX design.</p></div>
+  <div class="career-mosaic" id="mosaic"></div></div></section>
+<section class="section contours"><div class="wrap">
+  <div class="section-head"><h2>Built on three public datasets</h2></div>
+  <div class="source-grid">
+    <div class="source"><h3>O*NET 31.0</h3><p>Occupations and the technologies they use, including “hot technology” flags that feed edge confidence.</p></div>
+    <div class="source"><h3>LinkedIn job postings</h3><p>Skill demand per occupation, weighted by recency. 20% of postings are held back to test the recommender on real profiles.</p></div>
+    <div class="source"><h3>Coursera catalogue</h3><p>Courses linked to the skills they teach, and to the occupations they prepare you for.</p></div>
+  </div></div></section>
+<section class="section" style="padding-top:0"><div class="wrap"><div class="cta-band contours" style="background-color:var(--ink)">
+  <div><h2>Where do your skills lead?</h2><p>Upload a résumé or add skills. Your profile stays in your browser.</p></div><a class="btn btn-route" data-start href="login.html">Find my careers</a></div></div></section>
+<footer class="footer"><div class="wrap"><span>SkillGraph · Knowledge Graph Embedding on Skill and Career Recommendation · Hansamalya B, Moniisha S · VIT Chennai</span><span>Data: O*NET 31.0 (CC BY 4.0), LinkedIn postings 2024, Coursera · Photos: Unsplash</span></div></footer>
+<script src="js/app.js"></script></body></html>

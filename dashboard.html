@@ -1,0 +1,31 @@
+<!DOCTYPE html><html lang="en"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover"><title>Dashboard — SkillGraph</title><link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🕸️</text></svg>"><link rel="stylesheet" href="css/style.css"><script src="js/vendor/chart.umd.min.js" defer></script></head>
+<body data-page="dashboard"><div id="nav"></div><main id="main"><div class="wrap">
+<div class="page-head"><div><h1 id="greet" style="font-size:clamp(2rem,4vw,3.2rem)">Your skill dashboard</h1><p class="muted">Matches update as you edit your skills. <span id="savedAt"></span></p></div></div>
+<div class="grid-dash"><div class="stack">
+  <form class="panel" id="profileForm" autocomplete="off" onsubmit="return false">
+    <div class="panel-head"><h2 style="font-size:1.6rem">Your profile</h2></div>
+    <div class="field"><label for="pName">Name</label><input class="input" id="pName" placeholder="Your name"></div>
+    <div class="field" style="margin-top:16px"><span class="label">Rank careers with</span><div id="modelHost"></div><p class="hint" id="modelNote"></p></div>
+    <div class="panel-head" style="margin:26px 0 10px"><h3>Your skills</h3><span class="small muted" id="skillCount"></span></div>
+    <div class="chips" id="skillChips" style="margin-bottom:14px"></div>
+    <div class="autocomplete"><label class="sr-only" for="skillInput">Add a skill</label>
+      <input class="input" id="skillInput" placeholder="Add a skill from the graph — try Python, Tableau, Figma, Network Security" role="combobox" aria-controls="suggest" aria-expanded="false">
+      <div class="suggest" id="suggest" role="listbox" hidden></div></div>
+  </form>
+  <section class="panel"><div class="panel-head"><h2 style="font-size:1.6rem">Résumé upload</h2><span class="small muted">PDF, DOCX or TXT</span></div>
+    <div class="dropzone" id="dropzone" tabindex="0" role="button" aria-label="Upload résumé">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" aria-hidden="true"><path d="M12 16V4m0 0-4 4m4-4 4 4M4 16v3a1 1 0 0 0 1 1h14a1 1 0 0 0 1-1v-3"/></svg>
+      <p><strong>Drop your résumé here</strong> or click to choose a file</p><p class="hint">Skills are matched against the graph's 475 skill nodes, using the same lexicon as the pipeline. Try a file from <code>samples/</code>.</p></div>
+    <input type="file" id="resumeFile" accept=".pdf,.docx,.txt,.md" hidden><div id="resumeStatus"></div></section>
+</div><div class="stack">
+  <section class="panel"><div class="panel-head"><h2 style="font-size:1.6rem">Top matches</h2><a class="small" href="recommendation.html">See all 27</a></div><div id="topMatches"></div></section>
+  <section class="panel"><div class="panel-head"><h3>Where REQUIRES edges come from</h3></div><div class="chart-box" style="height:220px"><canvas id="ch-source" aria-label="Sources of occupation–skill edges"></canvas></div>
+    <p class="hint">O*NET + postings edges carry the highest confidence.</p></section>
+</div></div>
+<section style="margin:44px 0 60px"><div class="page-head" style="padding-top:0"><div><h2>Knowledge graph analytics</h2></div></div>
+  <div class="kpis" id="kpis" style="margin-bottom:20px"></div>
+  <div class="grid-2">
+    <div class="panel"><div class="panel-head"><h3>Skills required by the most occupations</h3><span class="legend"><span class="l-have">You have it</span></span></div><div class="chart-box tall"><canvas id="ch-skills"></canvas></div></div>
+    <div class="panel"><div class="panel-head"><h3>Your coverage by domain</h3><span class="small muted">Average weighted coverage</span></div><div class="chart-box tall"><canvas id="ch-domain"></canvas></div></div>
+  </div></section>
+</div></main><script src="js/app.js" defer></script></body></html>
