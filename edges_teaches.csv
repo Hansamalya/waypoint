@@ -1,0 +1,307 @@
+course,skill,confidence,weight
+AWS Fundamentals,AWS,1.0,1.0
+AWS Fundamentals: Addressing Security Risk,AWS,1.0,1.0
+AWS Fundamentals: Building Serverless Applications,AWS,1.0,1.0
+AWS Fundamentals: Going Cloud-Native,AWS,1.0,1.0
+AWS Fundamentals: Migrating to the Cloud,AWS,1.0,1.0
+Advanced Machine Learning,Machine Learning,1.0,1.0
+Advanced Machine Learning with TensorFlow on Google Cloud Platform,TensorFlow,1.0,1.0
+Advanced Machine Learning with TensorFlow on Google Cloud Platform,Machine Learning,1.0,1.0
+Advanced Machine Learning with TensorFlow on Google Cloud Platform,Cloud Computing,1.0,1.0
+Advanced Machine Learning with TensorFlow on Google Cloud Platform,Google Cloud,1.0,1.0
+Agile Development,Agile,1.0,1.0
+Agile Meets Design Thinking,Agile,1.0,1.0
+Agile with Atlassian Jira,Agile,1.0,1.0
+Agile with Atlassian Jira,Jira,1.0,1.0
+Agile и Scrum в работе над проектами и продуктами,Agile,1.0,1.0
+Algorithmic Toolbox,Algorithms,1.0,1.0
+Algorithmic Toolbox,Algorithmic,1.0,1.0
+Algorithms,Algorithms,1.0,1.0
+Algorithms for Battery Management Systems,Algorithms,1.0,1.0
+Android App Development,Mobile Development,1.0,1.0
+Applied Data Science with Python,Python,1.0,1.0
+Applied Machine Learning in Python,Python,1.0,1.0
+Applied Machine Learning in Python,Machine Learning,1.0,1.0
+"Applied Plotting, Charting & Data Representation in Python",Python,1.0,1.0
+Aprende a programar con Python,Python,1.0,1.0
+Architecting with Google Cloud Platform 日本語版,Cloud Computing,1.0,1.0
+Architecting with Google Cloud Platform 日本語版,Google Cloud,1.0,1.0
+Architecting with Google Kubernetes Engine 日本語版,Kubernetes,1.0,1.0
+Basic Statistics,Statistics,1.0,1.0
+Bayesian Statistics: From Concept to Data Analysis,Data Analysis,1.0,1.0
+Bayesian Statistics: From Concept to Data Analysis,Statistics,1.0,1.0
+Bayesian Statistics: Techniques and Models,Statistics,1.0,1.0
+Big Data – Introducción al uso práctico de datos masivos,Big Data,1.0,1.0
+Biostatistics in Public Health,Statistics,1.0,1.0
+Blockchain,Blockchain,1.0,1.0
+Blockchain Revolution,Blockchain,1.0,1.0
+Blockchain Revolution in Financial Services,Blockchain,1.0,1.0
+Blockchain: Foundations and Use Cases,Blockchain,1.0,1.0
+Building Batch Data Pipelines on GCP,Data Engineering,1.0,1.0
+Building Scalable Java Microservices with Spring Boot and Spring Cloud,Microservices,1.0,1.0
+Building Scalable Java Microservices with Spring Boot and Spring Cloud,Java,1.0,1.0
+Building Scalable Java Microservices with Spring Boot and Spring Cloud,Spring Boot,1.0,1.0
+Building Your Leadership Skills,Leadership,1.0,1.0
+Business English Communication Skills,Communication,1.0,1.0
+Business English: Networking,Networking,1.0,1.0
+Business Statistics and Analysis,Statistics,1.0,1.0
+Business Transformation with Google Cloud,Google Cloud,1.0,1.0
+C# Programming for Unity Game Development,Unity,1.0,1.0
+C# Programming for Unity Game Development,C#,1.0,1.0
+C# Programming for Unity Game Development,Game Development,1.0,1.0
+"Capstone: Retrieving, Processing, and Visualizing Data with Python",Python,1.0,1.0
+Cisco Networking Basics,Networking,1.0,1.0
+Cloud Computing,Cloud Computing,1.0,1.0
+Cloud Computing Basics (Cloud 101),Cloud Computing,1.0,1.0
+Cloud Engineering with Google Cloud,Google Cloud,1.0,1.0
+Communication Skills for Engineers,Communication,1.0,1.0
+Compassionate Leadership Through Service Learning with Jane Goodall and Roots & Shoots,Leadership,1.0,1.0
+"Competencias digitales. Herramientas de ofimática (Microsoft Word, Excel, Power Point)",Microsoft Word,1.0,1.0
+"Competencias digitales. Herramientas de ofimática (Microsoft Word, Excel, Power Point)",Excel,1.0,1.0
+Computational Thinking for Problem Solving,Problem Solving,1.0,1.0
+Construction Cost Estimating and Cost Control,Cost estimating,1.0,1.0
+Construction Project Management,Project Management,1.0,1.0
+Continuous Delivery & DevOps,DevOps,1.0,1.0
+Continuous Delivery & DevOps,CI/CD,1.0,1.0
+Convolutional Neural Networks,Deep Learning,1.0,1.0
+Convolutional Neural Networks in TensorFlow,Deep Learning,1.0,1.0
+Convolutional Neural Networks in TensorFlow,TensorFlow,1.0,1.0
+Crash Course on Python,Python,1.0,1.0
+Creative Problem Solving,Problem Solving,1.0,1.0
+Data Analysis and Interpretation,Data Analysis,1.0,1.0
+Data Analysis and Presentation Skills: the PwC Approach,Data Analysis,1.0,1.0
+Data Analysis with Python,Data Analysis,1.0,1.0
+Data Analysis with Python,Python,1.0,1.0
+Data Analytics for Lean Six Sigma,Data Analysis,1.0,1.0
+Data Collection and Processing with Python,Python,1.0,1.0
+Data Engineering on Google Cloud Platform 日本語版,Data Engineering,1.0,1.0
+Data Engineering on Google Cloud Platform 日本語版,Cloud Computing,1.0,1.0
+Data Engineering on Google Cloud Platform 日本語版,Google Cloud,1.0,1.0
+Data Engineering with Google Cloud,Data Engineering,1.0,1.0
+Data Engineering with Google Cloud,Google Cloud,1.0,1.0
+"Data Engineering, Big Data, and Machine Learning on GCP",Big Data,1.0,1.0
+"Data Engineering, Big Data, and Machine Learning on GCP",Data Engineering,1.0,1.0
+"Data Engineering, Big Data, and Machine Learning on GCP",Machine Learning,1.0,1.0
+Data Science: Statistics and Machine Learning,Machine Learning,1.0,1.0
+Data Science: Statistics and Machine Learning,Statistics,1.0,1.0
+Data Visualization and Communication with Tableau,Data Visualization,1.0,1.0
+Data Visualization and Communication with Tableau,Tableau,1.0,1.0
+Data Visualization with Advanced Excel,Excel,1.0,1.0
+Data Visualization with Advanced Excel,Data Visualization,1.0,1.0
+Data Visualization with Python,Python,1.0,1.0
+Data Visualization with Python,Data Visualization,1.0,1.0
+Data Visualization with Tableau,Data Visualization,1.0,1.0
+Data Visualization with Tableau,Tableau,1.0,1.0
+Data Warehousing for Business Intelligence,Data Warehousing,1.0,1.0
+Data Warehousing for Business Intelligence,Business Intelligence,1.0,1.0
+Databases and SQL for Data Science,SQL,1.0,1.0
+Deep Learning,Deep Learning,1.0,1.0
+Developing APIs with Google Cloud's Apigee API Platform,REST APIs,1.0,1.0
+Developing APIs with Google Cloud's Apigee API Platform,Google Cloud,1.0,1.0
+Developing Applications with Google Cloud Platform,Cloud Computing,1.0,1.0
+Developing Applications with Google Cloud Platform,Google Cloud,1.0,1.0
+Developing Applications with Google Cloud Platform 日本語版,Cloud Computing,1.0,1.0
+Developing Applications with Google Cloud Platform 日本語版,Google Cloud,1.0,1.0
+Digital Marketing,Digital Marketing,1.0,1.0
+Discrete Optimization,Optimization,1.0,1.0
+"Divide and Conquer, Sorting and Searching, and Randomized Algorithms",Algorithms,1.0,1.0
+Elastic Google Cloud Infrastructure: Scaling and Automation,Cloud Computing,1.0,1.0
+Elastic Google Cloud Infrastructure: Scaling and Automation,Google Cloud,1.0,1.0
+Emerging Technologies: From Smartphones to IoT to Big Data,Big Data,1.0,1.0
+Engineering Project Management: Initiating and Planning,Project Management,1.0,1.0
+Essential Google Cloud Infrastructure: Core Services,Cloud Computing,1.0,1.0
+Essential Google Cloud Infrastructure: Core Services,Google Cloud,1.0,1.0
+Essential Google Cloud Infrastructure: Foundation,Cloud Computing,1.0,1.0
+Essential Google Cloud Infrastructure: Foundation,Google Cloud,1.0,1.0
+"Everyday Excel, Part 1",Excel,1.0,1.0
+Excel Skills for Business,Excel,1.0,1.0
+Excel Skills for Business: Advanced,Excel,1.0,1.0
+Excel Skills for Business: Essentials,Excel,1.0,1.0
+Excel Skills for Business: Intermediate I,Excel,1.0,1.0
+Excel Skills for Business: Intermediate II,Excel,1.0,1.0
+Excel to MySQL: Analytic Techniques for Business,Excel,1.0,1.0
+Excel to MySQL: Analytic Techniques for Business,MySQL,1.0,1.0
+Excel/VBA for Creative Problem Solving,Problem Solving,1.0,1.0
+"Excel/VBA for Creative Problem Solving, Part 1",Problem Solving,1.0,1.0
+Financial Engineering and Risk Management Part I,Risk Assessment,1.0,1.0
+Foundations of Everyday Leadership,Leadership,1.0,1.0
+From Data to Insights with Google Cloud Platform,Cloud Computing,1.0,1.0
+From Data to Insights with Google Cloud Platform,Google Cloud,1.0,1.0
+Front-End Web Development with React,Front-end Development,1.0,1.0
+Front-End Web Development with React,Web Development,1.0,1.0
+Front-End Web Development with React,React,1.0,1.0
+Front-End Web UI Frameworks and Tools: Bootstrap 4,Front-end Development,1.0,1.0
+Front-End Web UI Frameworks and Tools: Bootstrap 4,Bootstrap,1.0,1.0
+Full Stack Web and Multiplatform Mobile App Development,Mobile Development,1.0,1.0
+Full-Stack Web Development with React,Web Development,1.0,1.0
+Full-Stack Web Development with React,React,1.0,1.0
+Functional Programming Principles in Scala,Scala,1.0,1.0
+Functional Programming in Scala,Scala,1.0,1.0
+Fundamentals of GIS,GIS,1.0,1.0
+Fundamentals of Visualization with Tableau,Tableau,1.0,1.0
+Fundamentos de Excel para Negocios,Excel,1.0,1.0
+"GIS, Mapping, and Spatial Analysis",GIS,1.0,1.0
+Game Design and Development,Game Development,1.0,1.0
+Geographic Information Systems  (GIS),GIS,1.0,1.0
+Getting Started with AWS Machine Learning,Machine Learning,1.0,1.0
+Getting Started with AWS Machine Learning,AWS,1.0,1.0
+Getting Started with Google Kubernetes Engine,Kubernetes,1.0,1.0
+Getting Started with Google Sheets,Google Sheets,1.0,1.0
+Getting Started with SAS Programming,SAS,1.0,1.0
+Google Cloud Platform Big Data and Machine Learning Fundamentals,Big Data,1.0,1.0
+Google Cloud Platform Big Data and Machine Learning Fundamentals,Machine Learning,1.0,1.0
+Google Cloud Platform Big Data and Machine Learning Fundamentals,Cloud Computing,1.0,1.0
+Google Cloud Platform Big Data and Machine Learning Fundamentals,Google Cloud,1.0,1.0
+Google Cloud Platform Fundamentals for AWS Professionals,Cloud Computing,1.0,1.0
+Google Cloud Platform Fundamentals for AWS Professionals,AWS,1.0,1.0
+Google Cloud Platform Fundamentals for AWS Professionals,Google Cloud,1.0,1.0
+Google IT Automation with Python,Python,1.0,1.0
+"HTML, CSS, and Javascript for Web Developers",CSS,1.0,1.0
+"HTML, CSS, and Javascript for Web Developers",JavaScript,1.0,1.0
+Health Information Literacy for Data Analytics,Data Analysis,1.0,1.0
+"High Performance Collaboration: Leadership, Teamwork, and Negotiation",Leadership,1.0,1.0
+IBM AI Enterprise Workflow,Workflow,1.0,1.0
+"Identifying, Monitoring, and Analyzing Risk and Incident Response and Recovery",Incident Response,1.0,1.0
+Improve Your English Communication Skills,Communication,1.0,1.0
+"Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization",Deep Learning,1.0,1.0
+"Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization",Optimization,1.0,1.0
+Improving Leadership & Governance in Nonprofit Organizations,Leadership,1.0,1.0
+Industrial IoT on Google Cloud Platform,Cloud Computing,1.0,1.0
+Industrial IoT on Google Cloud Platform,Google Cloud,1.0,1.0
+Inspirational Leadership: Leading with Sense,Leadership,1.0,1.0
+Inspired Leadership,Leadership,1.0,1.0
+Interaction Design,Interaction Design,1.0,1.0
+International Leadership and Organizational Behavior,Leadership,1.0,1.0
+Introducción a la programación en Python I: Aprendiendo a programar con Python,Python,1.0,1.0
+Introduction to Big Data,Big Data,1.0,1.0
+Introduction to Blockchain Technologies,Blockchain,1.0,1.0
+Introduction to Cloud Computing,Cloud Computing,1.0,1.0
+Introduction to Data Analysis Using Excel,Data Analysis,1.0,1.0
+Introduction to Data Analysis Using Excel,Excel,1.0,1.0
+Introduction to Data Science in Python,Python,1.0,1.0
+Introduction to Game Development,Game Development,1.0,1.0
+Introduction to Portfolio Construction and Analysis with Python,Python,1.0,1.0
+Introduction to Programming with MATLAB,MATLAB,1.0,1.0
+Introduction to Scripting in Python,Python,1.0,1.0
+Introduction to Statistics & Data Analysis in Public Health,Data Analysis,1.0,1.0
+Introduction to Statistics & Data Analysis in Public Health,Statistics,1.0,1.0
+"Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning",Deep Learning,1.0,1.0
+"Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning",TensorFlow,1.0,1.0
+"Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning",Machine Learning,1.0,1.0
+"Introduction to Trading, Machine Learning & GCP",Machine Learning,1.0,1.0
+Introduction to Typography,Visual Design,1.0,1.0
+Introduction to Web Development,Web Development,1.0,1.0
+Introdução à Ciência da Computação com Python Parte 1,Python,1.0,1.0
+Investment Management with Python and Machine Learning,Python,1.0,1.0
+Investment Management with Python and Machine Learning,Machine Learning,1.0,1.0
+Java Programming and Software Engineering Fundamentals,Java,1.0,1.0
+Java Programming: Solving Problems with Software,Java,1.0,1.0
+Julia Scientific Programming,Julia,1.0,1.0
+Kotlin for Java Developers,Java,1.0,1.0
+Kotlin for Java Developers,Kotlin,1.0,1.0
+Leadership Development for Engineers,Leadership,1.0,1.0
+Leadership in 21st Century Organizations,Leadership,1.0,1.0
+Leading: Human Resource Management and Leadership,Leadership,1.0,1.0
+Learn SQL Basics for Data Science,SQL,1.0,1.0
+Machine Learning,Machine Learning,1.0,1.0
+Machine Learning Foundations: A Case Study Approach,Machine Learning,1.0,1.0
+Machine Learning and Reinforcement Learning in Finance,Machine Learning,1.0,1.0
+Machine Learning for All,Machine Learning,1.0,1.0
+Machine Learning for Business Professionals,Machine Learning,1.0,1.0
+Machine Learning for Trading,Machine Learning,1.0,1.0
+Machine Learning with Python,Python,1.0,1.0
+Machine Learning with Python,Machine Learning,1.0,1.0
+Machine Learning with TensorFlow on Google Cloud Platform,TensorFlow,1.0,1.0
+Machine Learning with TensorFlow on Google Cloud Platform,Machine Learning,1.0,1.0
+Machine Learning with TensorFlow on Google Cloud Platform,Cloud Computing,1.0,1.0
+Machine Learning with TensorFlow on Google Cloud Platform,Google Cloud,1.0,1.0
+Mastering Data Analysis in Excel,Data Analysis,1.0,1.0
+Mastering Data Analysis in Excel,Excel,1.0,1.0
+Mathematics for Machine Learning,Machine Learning,1.0,1.0
+Mathematics for Machine Learning: Linear Algebra,Machine Learning,1.0,1.0
+Mathematics for Machine Learning: Multivariate Calculus,Machine Learning,1.0,1.0
+Mathematics for Machine Learning: PCA,Machine Learning,1.0,1.0
+Methods and Statistics in Social Sciences,Statistics,1.0,1.0
+Modern Big Data Analysis with SQL,Data Analysis,1.0,1.0
+Modern Big Data Analysis with SQL,Big Data,1.0,1.0
+Modern Big Data Analysis with SQL,SQL,1.0,1.0
+Modernizing Data Lakes and Data Warehouses with GCP,Data Warehousing,1.0,1.0
+Natural Language Processing in TensorFlow,NLP,1.0,1.0
+Natural Language Processing in TensorFlow,TensorFlow,1.0,1.0
+Networking and Security Architecture with VMware NSX,Networking,1.0,1.0
+Networking and Security Architecture with VMware NSX,VMware,1.0,1.0
+Networking in Google Cloud,Networking,1.0,1.0
+Networking in Google Cloud,Google Cloud,1.0,1.0
+Neural Networks and Deep Learning,Deep Learning,1.0,1.0
+Object Oriented Java Programming: Data Structures and Beyond,Object-Oriented Programming,1.0,1.0
+Object Oriented Java Programming: Data Structures and Beyond,Java,1.0,1.0
+Object Oriented Programming in Java,Object-Oriented Programming,1.0,1.0
+Object Oriented Programming in Java,Java,1.0,1.0
+Object-Oriented Data Structures in C++,Object-Oriented Programming,1.0,1.0
+Object-Oriented Data Structures in C++,C++,1.0,1.0
+Object-Oriented Design,Object-Oriented Programming,1.0,1.0
+"Open Source Software Development, Linux and Git",Git,1.0,1.0
+"Open Source Software Development, Linux and Git",Linux,1.0,1.0
+"Open Source Software Development, Linux and Git",Version Control,1.0,1.0
+Organizational Leadership,Leadership,1.0,1.0
+"Parallel, Concurrent, and Distributed Programming in Java",Java,1.0,1.0
+Practical Data Science with MATLAB,MATLAB,1.0,1.0
+Preparing for the Google Cloud Associate Cloud Engineer Exam,Google Cloud,1.0,1.0
+Pricing Strategy Optimization,Optimization,1.0,1.0
+Probability and Statistics: To p or not to p?,Statistics,1.0,1.0
+"Programming Foundations with JavaScript, HTML and CSS",CSS,1.0,1.0
+"Programming Foundations with JavaScript, HTML and CSS",JavaScript,1.0,1.0
+Programming for Everybody (Getting Started with Python),Python,1.0,1.0
+Project Management & Other Tools for Career Development,Project Management,1.0,1.0
+Project Management Principles and Practices,Project Management,1.0,1.0
+Python Basics,Python,1.0,1.0
+Python Classes and Inheritance,Python,1.0,1.0
+Python Data Structures,Python,1.0,1.0
+"Python Functions, Files, and Dictionaries",Python,1.0,1.0
+Python and Statistics for Financial Analysis,Python,1.0,1.0
+Python and Statistics for Financial Analysis,Statistics,1.0,1.0
+Python for Data Science and AI,Python,1.0,1.0
+Python for Everybody,Python,1.0,1.0
+SAS Programmer,SAS,1.0,1.0
+SAS Visual Business Analytics,SAS,1.0,1.0
+SQL for Data Science,SQL,1.0,1.0
+Search Engine Optimization Fundamentals,SEO,1.0,1.0
+Search Engine Optimization Fundamentals,Optimization,1.0,1.0
+Security in Google Cloud Platform,Cloud Computing,1.0,1.0
+Security in Google Cloud Platform,Google Cloud,1.0,1.0
+Social Media Marketing,Digital Marketing,1.0,1.0
+Software Processes and Agile Practices,Agile,1.0,1.0
+Statistical Analysis with R for Public Health,Statistics,1.0,1.0
+Statistics with Python,Python,1.0,1.0
+Statistics with Python,Statistics,1.0,1.0
+Statistics with R,Statistics,1.0,1.0
+Strategic Leadership and Management,Leadership,1.0,1.0
+Structuring Machine Learning Projects,Machine Learning,1.0,1.0
+Summary Statistics in Public Health,Statistics,1.0,1.0
+Supply Chain Finance and Blockchain Technology,Blockchain,1.0,1.0
+Swift 5 iOS Application Developer,Swift,1.0,1.0
+Swift 5 iOS Application Developer,Mobile Development,1.0,1.0
+TensorFlow in Practice,TensorFlow,1.0,1.0
+TensorFlow: Data and Deployment,TensorFlow,1.0,1.0
+The Bits and Bytes of Computer Networking,Networking,1.0,1.0
+UCI Project Management,Project Management,1.0,1.0
+Understanding Clinical Research: Behind the Statistics,Statistics,1.0,1.0
+Understanding and Visualizing Data with Python,Python,1.0,1.0
+Unity Certified Programmer Exam Preparation,Unity,1.0,1.0
+Unity XR: How to Build AR and VR Apps,Unity,1.0,1.0
+Using Databases with Python,Python,1.0,1.0
+Using Python to Access Web Data,Python,1.0,1.0
+Using Python to Interact with the Operating System,Python,1.0,1.0
+Version Control with Git,Git,1.0,1.0
+Version Control with Git,Version Control,1.0,1.0
+Web Applications for Everybody,Web Development,1.0,1.0
+Web Design for Everybody: Basics of Web Development & Coding,Web Development,1.0,1.0
+iOS App Development with Swift,Swift,1.0,1.0
+iOS App Development with Swift,Mobile Development,1.0,1.0
+Искусство разработки на современном C++,C++,1.0,1.0
+Математика и Python для анализа данных,Python,1.0,1.0
+Основы программирования на Python,Python,1.0,1.0
+Основы разработки на C++: белый пояс,C++,1.0,1.0
+Погружение в Python,Python,1.0,1.0
+Программирование на Python,Python,1.0,1.0
+Разработка интерфейсов: вёрстка и JavaScript,JavaScript,1.0,1.0

@@ -1,0 +1,253 @@
+{
+ "profile": [
+  "Python",
+  "SQL",
+  "Excel",
+  "Tableau",
+  "Power BI",
+  "Statistics",
+  "Data Visualization",
+  "Data Analysis"
+ ],
+ "recommendations": [
+  {
+   "occupation": "Operations Research Analyst",
+   "domain": "Data Analytics & BI",
+   "score": 0.92,
+   "weighted_coverage": 0.205,
+   "matched": [
+    [
+     "Excel",
+     1.0
+    ],
+    [
+     "Data Analysis",
+     0.5
+    ],
+    [
+     "SQL",
+     0.5
+    ],
+    [
+     "Tableau",
+     0.46
+    ],
+    [
+     "Power BI",
+     0.4
+    ],
+    [
+     "Statistics",
+     0.3
+    ]
+   ],
+   "missing": [
+    [
+     "Communication",
+     0.75,
+     0.91
+    ],
+    [
+     "Problem Solving",
+     0.66,
+     0.88
+    ],
+    [
+     "Leadership",
+     0.64,
+     0.88
+    ],
+    [
+     "PowerPoint",
+     0.45,
+     0.95
+    ],
+    [
+     "SAP",
+     0.43,
+     0.95
+    ]
+   ],
+   "courses": [
+    {
+     "course": "Business English Communication Skills",
+     "teaches": "Communication"
+    },
+    {
+     "course": "Communication Skills for Engineers",
+     "teaches": "Communication"
+    },
+    {
+     "course": "Computational Thinking for Problem Solving",
+     "teaches": "Problem Solving"
+    },
+    {
+     "course": "Creative Problem Solving",
+     "teaches": "Problem Solving"
+    }
+   ],
+   "paths": [
+    "Business English Communication Skills \u2014TEACHES\u2192 Communication \u2190REQUIRES\u2014 Operations Research Analyst",
+    "Communication Skills for Engineers \u2014TEACHES\u2192 Communication \u2190REQUIRES\u2014 Operations Research Analyst"
+   ]
+  },
+  {
+   "occupation": "AI Research Scientist",
+   "domain": "AI & Machine Learning",
+   "score": 0.828,
+   "weighted_coverage": 0.103,
+   "matched": [
+    [
+     "Python",
+     0.89
+    ],
+    [
+     "Statistics",
+     0.61
+    ],
+    [
+     "Excel",
+     0.42
+    ],
+    [
+     "SQL",
+     0.33
+    ],
+    [
+     "Data Visualization",
+     0.29
+    ],
+    [
+     "Power BI",
+     0.27
+    ]
+   ],
+   "missing": [
+    [
+     "Machine Learning",
+     0.82,
+     0.82
+    ],
+    [
+     "Java",
+     0.61,
+     0.96
+    ],
+    [
+     "Algorithms",
+     0.56,
+     0.7
+    ],
+    [
+     "C++",
+     0.54,
+     0.95
+    ],
+    [
+     "Optimization",
+     0.53,
+     0.68
+    ]
+   ],
+   "courses": [
+    {
+     "course": "Advanced Machine Learning",
+     "teaches": "Machine Learning"
+    },
+    {
+     "course": "Advanced Machine Learning with TensorFlow on Google Cloud Platform",
+     "teaches": "Machine Learning"
+    },
+    {
+     "course": "Building Scalable Java Microservices with Spring Boot and Spring Cloud",
+     "teaches": "Java"
+    },
+    {
+     "course": "Java Programming and Software Engineering Fundamentals",
+     "teaches": "Java"
+    }
+   ],
+   "paths": [
+    "Advanced Machine Learning \u2014TEACHES\u2192 Machine Learning \u2190REQUIRES\u2014 AI Research Scientist",
+    "Advanced Machine Learning with TensorFlow on Google Cloud Platform \u2014TEACHES\u2192 Machine Learning \u2190REQUIRES\u2014 AI Research Scientist"
+   ]
+  },
+  {
+   "occupation": "Statistician",
+   "domain": "Data Analytics & BI",
+   "score": 0.828,
+   "weighted_coverage": 0.227,
+   "matched": [
+    [
+     "Statistics",
+     0.82
+    ],
+    [
+     "SQL",
+     0.35
+    ],
+    [
+     "Python",
+     0.32
+    ],
+    [
+     "Excel",
+     0.32
+    ],
+    [
+     "Tableau",
+     0.29
+    ],
+    [
+     "Data Analysis",
+     0.25
+    ]
+   ],
+   "missing": [
+    [
+     "SAS",
+     0.71,
+     0.96
+    ],
+    [
+     "R",
+     0.48,
+     0.94
+    ],
+    [
+     "SPSS",
+     0.34,
+     0.91
+    ],
+    [
+     "SAP",
+     0.32,
+     0.91
+    ],
+    [
+     "Microsoft Word",
+     0.29,
+     0.9
+    ]
+   ],
+   "courses": [
+    {
+     "course": "Getting Started with SAS Programming",
+     "teaches": "SAS"
+    },
+    {
+     "course": "SAS Programmer",
+     "teaches": "SAS"
+    },
+    {
+     "course": "Competencias digitales. Herramientas de ofim\u00e1tica (Microsoft Word, Excel, Power Point)",
+     "teaches": "Microsoft Word"
+    }
+   ],
+   "paths": [
+    "Getting Started with SAS Programming \u2014TEACHES\u2192 SAS \u2190REQUIRES\u2014 Statistician",
+    "SAS Programmer \u2014TEACHES\u2192 SAS \u2190REQUIRES\u2014 Statistician"
+   ]
+  }
+ ]
+}

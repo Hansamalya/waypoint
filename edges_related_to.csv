@@ -1,0 +1,385 @@
+src,dst,npmi,co
+Illustrator,Photoshop,0.9457,84
+BGP,OSPF,0.9086,56
+Cryptography,Encryption,0.8981,125
+Git,Version Control,0.8883,444
+NumPy,pandas,0.8791,36
+Illustrator,InDesign,0.8729,58
+PyTorch,TensorFlow,0.8595,88
+InDesign,Photoshop,0.8498,56
+Chef,Puppet,0.8382,43
+LAN,WAN,0.8243,57
+Data Warehousing,Data warehouse,0.7935,174
+DHCP,DNS,0.786,61
+Objective C,Swift,0.7786,22
+EIGRP,OSPF,0.7669,23
+BGP,EIGRP,0.7632,25
+Deep Learning,PyTorch,0.7623,90
+AJAX,jQuery,0.7576,23
+Ruby,Ruby on Rails,0.7518,26
+Docker,Kubernetes,0.75,362
+Google Analytics,Semrush,0.7386,23
+SSIS,SSRS,0.7294,38
+Digital Marketing,SEO,0.728,95
+NumPy,Scikit-learn,0.7223,21
+SEO,Semrush,0.7151,30
+Confluence,Jira,0.7095,171
+Google Analytics,SEO,0.7094,52
+Firewall,Network Security,0.7094,134
+Web Development,Web application,0.7088,167
+Scikit-learn,TensorFlow,0.7048,33
+PyTorch,Scikit-learn,0.695,35
+Hadoop,Spark,0.6933,102
+Figma,Wireframing,0.6867,68
+Scikit-learn,pandas,0.6861,20
+Deep Learning,TensorFlow,0.6833,66
+UNIX,UNIX Shell,0.6773,25
+Kotlin,Swift,0.6748,25
+Ansible,Puppet,0.6721,50
+Usability testing,Wireframing,0.6578,30
+Adobe XD,Figma,0.656,26
+Digital Marketing,Google Analytics,0.6544,54
+Interaction Design,Wireframing,0.6528,34
+Scala,Spark,0.6475,119
+Software Testing,Unit testing,0.6426,157
+UX Research,Usability testing,0.6396,49
+Big Data,Spark,0.6361,151
+Ansible,Chef,0.6317,46
+Big Data,Hadoop,0.6314,90
+Data Warehousing,ETL,0.6306,198
+Deep Learning,NLP,0.6293,68
+Prototyping,Wireframing,0.6287,98
+Figma,Interaction Design,0.6283,36
+Figma,Visual Design,0.6272,56
+BGP,WAN,0.6226,30
+Photoshop,Visual Design,0.6149,39
+UX Research,Wireframing,0.6102,82
+Deep Learning,Generative AI,0.6037,73
+OSPF,WAN,0.6013,25
+Illustrator,Visual Design,0.601,36
+Figma,UX Research,0.6004,92
+NLP,PyTorch,0.598,50
+Generative AI,PyTorch,0.5975,58
+SQL Server,SSRS,0.5963,52
+Excel,PowerPoint,0.5941,357
+R,SAS,0.5924,63
+C#,C++,0.5908,239
+Deep Learning,Machine Learning,0.5839,171
+Firewall,VPN,0.5822,37
+Front-end Development,React,0.5794,222
+R,Statistics,0.5781,179
+Microservices,Microservices Architecture,0.5762,44
+Network Security,VPN,0.5752,79
+InDesign,Visual Design,0.5733,27
+.NET,C#,0.5704,150
+SEO,WordPress,0.5699,23
+Visual Design,Wireframing,0.5691,40
+NLP,TensorFlow,0.5682,41
+Computer Vision,Deep Learning,0.5676,41
+Incident Response,Vulnerability Management,0.565,110
+Computer Vision,NLP,0.5628,36
+Back-end Development,Front-end Development,0.5628,298
+React,React Native,0.5621,35
+Active directory,VMware,0.5619,59
+Data Modeling,Data Warehousing,0.5558,189
+SQL Server,SSIS,0.5548,58
+Penetration Testing,Vulnerability Management,0.5521,64
+Digital Marketing,Google Ads,0.5518,23
+Active directory,DNS,0.5516,51
+Data Modeling,ETL,0.5505,191
+MySQL,PostgreSQL,0.5496,54
+Hadoop,Scala,0.5493,53
+Mobile Development,Swift,0.5467,49
+Active directory,DHCP,0.5445,28
+DNS,VMware,0.5429,55
+Interaction Design,UX Research,0.5424,41
+Incident Response,Penetration Testing,0.5421,35
+Data Visualization,Tableau,0.5418,198
+Generative AI,NLP,0.5386,53
+Ansible,Bash,0.5384,67
+Data Engineering,ETL,0.5384,181
+Machine Learning,PyTorch,0.5384,122
+Interaction Design,Prototyping,0.5377,46
+Interaction Design,Visual Design,0.5377,22
+Generative AI,TensorFlow,0.5375,43
+Go,Kubernetes,0.5372,135
+Machine Learning,TensorFlow,0.5312,108
+Bash,PowerShell,0.5305,69
+CI/CD,DevOps,0.5271,402
+Machine Learning,NLP,0.5264,131
+Alteryx,Tableau,0.5264,24
+SAS,Statistics,0.5251,105
+Algorithms,Deep Learning,0.5249,113
+DNS,Network Security,0.5242,91
+Data warehouse,ETL,0.5234,88
+Kotlin,Mobile Development,0.5185,44
+Power BI,Tableau,0.5174,99
+Data Warehousing,Snowflake,0.517,95
+Data Engineering,Data Warehousing,0.5169,167
+Business Intelligence,Tableau,0.5161,109
+C#,JavaScript,0.516,270
+Redshift,Snowflake,0.5151,42
+Big Data,Scala,0.5136,85
+Computer Vision,PyTorch,0.5133,27
+Go,NoSQL,0.5109,92
+Network Security,WAN,0.5106,64
+Cloud Computing,Google Cloud,0.5098,203
+Angular,React,0.5096,111
+Adobe XD,UX Research,0.5094,23
+Networking,WAN,0.5083,102
+Data Visualization,Power BI,0.5079,169
+Algorithms,Machine Learning,0.5078,292
+React,TypeScript,0.5077,109
+Network Security,OSPF,0.5076,47
+Mobile Development,React Native,0.5069,28
+Business Intelligence,Data Warehousing,0.5069,124
+Docker,Go,0.5053,126
+Airflow,Spark,0.5034,39
+CSS,JavaScript,0.5032,175
+MongoDB,MySQL,0.5,40
+DNS,VPN,0.4988,31
+Java,Spring Boot,0.4988,129
+Computer Vision,TensorFlow,0.4988,23
+Firewall,OSPF,0.4987,20
+Bash,Puppet,0.4984,26
+Generative AI,Machine Learning,0.4935,140
+Angular,Front-end Development,0.4934,136
+ETL,SSIS,0.4924,54
+Active directory,PowerShell,0.4916,53
+VPN,WAN,0.4914,22
+PySpark,Spark,0.4909,28
+Data Engineering,Spark,0.4895,131
+Digital Marketing,WordPress,0.4894,21
+Angular,Spring Boot,0.489,50
+Ansible,Prometheus,0.4889,26
+Prototyping,Usability testing,0.4889,33
+MongoDB,PostgreSQL,0.4887,31
+Computer Vision,Generative AI,0.4881,32
+Business Intelligence,Power BI,0.4873,93
+AWS,Cloud Computing,0.4835,568
+React,webpack,0.4832,26
+JavaScript,TypeScript,0.482,162
+BGP,Network Security,0.4815,48
+Business Intelligence,Data Visualization,0.4808,174
+Data Engineering,Redshift,0.4805,66
+Kafka,Redis,0.4803,28
+Smartsheet,Workflow,0.4798,41
+LAN,Networking,0.4798,78
+Web application,jQuery,0.4797,21
+Jest,React,0.4791,28
+CSS,jQuery,0.4786,29
+DevOps,Infrastructure as Code,0.4757,167
+Prototyping,UX Research,0.4754,113
+LAN,Network Security,0.4732,47
+EIGRP,Network Security,0.4711,26
+Kafka,Spark,0.4696,75
+Ansible,GitLab,0.4686,38
+Redshift,Spark,0.468,46
+Airflow,Data Engineering,0.4679,47
+Algorithmic,Algorithms,0.4679,23
+Bootstrap,CSS,0.4668,21
+SQL,SQL Server,0.4652,333
+CSS,Web Development,0.4651,119
+CSS,Front-end Development,0.4643,126
+Algorithms,PyTorch,0.4613,74
+C#,Chatbot,0.4608,30
+Algorithms,NLP,0.459,82
+Business Intelligence,Data warehouse,0.4579,61
+Selenium,Software Testing,0.4573,69
+MySQL,PHP,0.4563,26
+Microservices,Spring Boot,0.4558,61
+C++,Chatbot,0.4546,30
+Adobe XD,Prototyping,0.4536,21
+Node.js,React,0.4533,78
+Data warehouse,Snowflake,0.4525,44
+Hadoop,Kafka,0.4514,40
+Networking,VPN,0.4513,86
+Front-end Development,JavaScript,0.4499,258
+BGP,Networking,0.4497,70
+CI/CD,GitLab,0.4496,92
+Back-end Development,Node.js,0.4482,110
+Firewall,WAN,0.4479,22
+Docker,Microservices,0.4479,157
+JavaScript,React,0.4477,198
+Angular,CSS,0.4448,69
+Bash,Chef,0.4446,22
+Data Modeling,Data warehouse,0.4437,79
+Airflow,Scala,0.4421,24
+CI/CD,Infrastructure as Code,0.4407,157
+SAS,Tableau,0.439,45
+NoSQL,Node.js,0.4377,65
+AWS,Azure,0.4362,589
+C++,JavaScript,0.4357,227
+.NET,SQL Server,0.4356,77
+BigQuery,Google Cloud,0.4341,20
+Data Analysis,Statistics,0.434,383
+DHCP,VMware,0.4336,20
+Kubernetes,Microservices,0.4325,147
+Microservices,NoSQL,0.4324,106
+Cryptography,Vulnerability Management,0.432,75
+Kafka,Spring Boot,0.4309,37
+Data Analysis,Tableau,0.43,212
+Java,Microservices,0.4275,233
+Docker,NoSQL,0.4271,125
+Kubernetes,NoSQL,0.4263,122
+Linux,UNIX,0.4259,82
+Infrastructure as Code,Kubernetes,0.4254,107
+C,C++,0.4251,95
+MATLAB,R,0.4247,23
+VMware,VPN,0.4244,26
+Docker,Infrastructure as Code,0.4243,109
+R,Tableau,0.424,65
+Angular,JavaScript,0.4235,139
+Big Data,Machine Learning,0.4228,164
+Node.js,TypeScript,0.4225,52
+Kafka,Kubernetes,0.4216,94
+Integration testing,Unit testing,0.4208,21
+Bash,GitLab,0.4206,30
+Google Cloud,NoSQL,0.4203,74
+CI/CD,Docker,0.4181,238
+Power BI,SSRS,0.4178,24
+Data Analysis,Data Visualization,0.4171,373
+Go,Scala,0.415,49
+Airflow,Snowflake,0.4143,21
+Big Data,Data Engineering,0.414,110
+Patch management,Vulnerability Management,0.4139,21
+DHCP,Networking,0.4137,56
+REST APIs,RESTful API,0.4129,44
+CI/CD,GitHub,0.4118,110
+Azure,Cloud Computing,0.4103,446
+Data Modeling,Power BI,0.41,99
+AWS,NoSQL,0.4092,226
+AWS,Docker,0.409,322
+MongoDB,Spring Boot,0.4076,21
+MongoDB,NoSQL,0.4072,40
+MySQL,Redshift,0.4064,27
+Security testing,Vulnerability Management,0.4048,21
+Java,Kafka,0.4044,144
+Azure,DevOps,0.4039,384
+Back-end Development,React,0.4029,154
+Java,NoSQL,0.4029,184
+AWS,Kubernetes,0.4025,310
+Incident Response,Splunk,0.401,27
+DHCP,Network Security,0.4002,32
+Airflow,ETL,0.4002,32
+Encryption,Incident Response,0.3987,26
+Incident Response,Network Security,0.3987,66
+.NET,Angular,0.3983,58
+GitHub,GitLab,0.3964,26
+Go,Java,0.3961,143
+DevOps,Kubernetes,0.395,211
+Bootstrap,Web Development,0.3939,25
+Statistics,Tableau,0.3939,130
+Chef,Docker,0.3918,36
+DevOps,Docker,0.3902,213
+Access management,Incident Response,0.3875,28
+Cryptography,Incident Response,0.3872,34
+MongoDB,Node.js,0.3869,26
+PHP,Web Development,0.3849,39
+PowerShell,VMware,0.3849,40
+Data Visualization,Data Warehousing,0.3835,151
+MySQL,SQL Server,0.3808,52
+Back-end Development,Django,0.3805,25
+Azure,Google Cloud,0.376,160
+Chef,Kubernetes,0.3759,33
+Django,Front-end Development,0.3756,22
+Back-end Development,Java,0.3755,285
+EIGRP,Networking,0.3752,29
+Chatbot,JavaScript,0.3747,30
+Cloud Computing,Infrastructure as Code,0.373,142
+Cryptography,Network Security,0.3729,62
+Access management,Active directory,0.3717,24
+Cloud Computing,Kubernetes,0.3712,227
+Python,Scala,0.3702,188
+Bootstrap,Front-end Development,0.3698,24
+Linux,Puppet,0.368,33
+Encryption,Network Security,0.367,44
+Excel,Microsoft Word,0.3664,52
+Risk Assessment,Vulnerability Management,0.3643,148
+JUnit,Software Testing,0.3615,30
+Python,R,0.3597,196
+Data Analysis,R,0.3582,141
+Functional testing,Software Testing,0.3582,30
+JUnit,Java,0.3581,41
+Bootstrap,JavaScript,0.3581,29
+Database Design,SQL Server,0.3578,88
+Dynatrace,Version Control,0.3568,22
+Informatica,Tableau,0.3558,20
+Git,PHP,0.3554,30
+Azure,PowerShell,0.355,136
+Asana,Jira,0.3543,20
+Regression testing,Software Testing,0.3543,27
+Access management,Cryptography,0.3538,25
+Encryption,Vulnerability Management,0.3537,41
+Optimization,SEO,0.3528,79
+Linux,VMware,0.3516,70
+Data Analysis,Power BI,0.3513,157
+Mobile Development,Wireframing,0.3507,38
+Database Design,SQL,0.3489,320
+Python,SQL,0.3459,915
+SAN,Scala,0.3456,83
+Python,Spark,0.3449,229
+C#,SQL,0.3439,332
+Hadoop,Machine Learning,0.343,66
+AJAX,JavaScript,0.3409,24
+C++,Python,0.3406,332
+Microsoft Word,PowerPoint,0.3395,23
+Integration testing,Software Testing,0.3387,43
+PowerPoint,SharePoint,0.3384,49
+Elasticsearch,Kubernetes,0.337,20
+Database Design,SSIS,0.3331,32
+GitHub,Infrastructure as Code,0.3323,36
+Google Analytics,Optimization,0.3275,46
+Postman,REST APIs,0.3274,29
+GraphQL,React,0.3269,20
+Optimization,Semrush,0.3265,22
+GraphQL,REST APIs,0.3253,40
+Postman,Software Testing,0.3249,21
+Database Design,PostgreSQL,0.3233,42
+.NET,Git,0.3204,63
+Agile,Jira,0.3192,321
+Object-Oriented Programming,Software Testing,0.318,90
+NumPy,Statistics,0.317,24
+Database Design,MySQL,0.3165,52
+Ruby,Web Development,0.3154,37
+Network management,Networking,0.314,29
+Access management,Vulnerability Management,0.3105,39
+Google Ads,Optimization,0.3068,23
+PostgreSQL,React,0.3052,35
+Object-Oriented Programming,Spring Boot,0.305,25
+.NET,Version Control,0.3012,76
+Excel,VBA,0.3012,26
+Agile,Software Testing,0.2938,384
+Django,REST APIs,0.2937,23
+SharePoint,VMware,0.2928,22
+JUnit,REST APIs,0.2895,30
+Alteryx,Data Analysis,0.2862,23
+Project Management,Smartsheet,0.2859,74
+Jest,REST APIs,0.2853,24
+Perl,Python,0.2843,64
+LAN,Vulnerability Management,0.2825,21
+Penetration Testing,Risk Assessment,0.2822,31
+GraphQL,Kubernetes,0.2812,20
+Agile,Java,0.2809,526
+PySpark,Python,0.2793,45
+Kotlin,REST APIs,0.2785,34
+Gradle,Java,0.2784,20
+Microsoft Project,PowerPoint,0.2758,25
+Migration,SQL Server,0.2743,45
+C,Linux,0.2723,62
+Agile,CI/CD,0.2715,442
+Microservices Architecture,REST APIs,0.2693,24
+Microsoft Project,Project Management,0.2685,84
+BigQuery,Cloud Computing,0.2675,25
+C,C#,0.2665,52
+Excel,SharePoint,0.2659,77
+Agile,Confluence,0.2651,131
+AJAX,REST APIs,0.2643,20
+Migration,VMware,0.2632,28
+C,Java,0.2631,93
+Excel,Microsoft Project,0.2627,50
+Jira,Selenium,0.2612,25
+JUnit,JavaScript,0.2608,22
+SAN,TypeScript,0.2602,71
+Optimization,WordPress,0.2577,22
+Access management,Risk Assessment,0.2571,43

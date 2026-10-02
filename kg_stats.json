@@ -1,0 +1,38 @@
+{
+ "nodes": {
+  "total": 731,
+  "occupation": 27,
+  "skill": 475,
+  "course": 229
+ },
+ "edges": {
+  "total": 3943,
+  "REQUIRES": 2983,
+  "TEACHES": 306,
+  "PREPARES_FOR": 270,
+  "RELATED_TO": 384
+ },
+ "avg_degree": 10.79,
+ "lcc_pct": 100.0,
+ "components": 1,
+ "isolated": 0,
+ "schema_violations": 0,
+ "duplicate_edges": 0,
+ "dangling_edges": 0,
+ "requires_sources": {
+  "both": 1539,
+  "onet": 1062,
+  "postings": 382
+ },
+ "postings": {
+  "matched": 11672,
+  "build": 9336,
+  "heldout": 2336,
+  "heldout_profiles": 1855
+ },
+ "half_life_days": 14,
+ "date_range": [
+  "2024-04-05",
+  "2024-04-20"
+ ]
+}

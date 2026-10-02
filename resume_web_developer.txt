@@ -1,0 +1,17 @@
+Arjun Kumar
+Vellore, Tamil Nadu · arjun.k@example.com
+
+SUMMARY
+Front-end developer who enjoys building fast, accessible interfaces. 1 year of internship and freelance experience.
+
+EDUCATION
+BCA, VIT Vellore, 2024
+
+EXPERIENCE
+Web Development Intern, Zoho (6 months). Built React components in TypeScript, styled with CSS, and wrote REST integrations with Node.js. Used Git and Jira in a two-week scrum cycle.
+
+PROJECTS
+Portfolio site in HTML, CSS and JavaScript. Expense tracker built with React and a MongoDB back end, deployed on AWS.
+
+SKILLS
+HTML, CSS, JavaScript, TypeScript, React, Node.js, MongoDB, Git, Figma, collaboration, time management

@@ -1,0 +1,476 @@
+id,name,kind
+.NET,.NET,tool
+ABAP,ABAP,tool
+ADO.NET,ADO.NET,tool
+AJAX,AJAX,tool
+ASP,ASP,tool
+AWK,AWK,tool
+AWS,AWS,tool
+Ab Initio,Ab Initio,tool
+Access management,Access management,tool
+Active directory,Active directory,tool
+Ada,Ada,tool
+Adobe Acrobat,Adobe Acrobat,tool
+Adobe Analytics,Adobe Analytics,tool
+Adobe Creative Cloud,Adobe Creative Cloud,tool
+Adobe Premiere Pro,Adobe Premiere Pro,tool
+Adobe XD,Adobe XD,tool
+After Effects,After Effects,tool
+Agile,Agile,concept
+Ahrefs Site Explorer,Ahrefs Site Explorer,tool
+Airflow,Airflow,tool
+Airtable,Airtable,tool
+Algorithmic,Algorithmic,tool
+Algorithms,Algorithms,concept
+Alteryx,Alteryx,tool
+Amazon DynamoDB,Amazon DynamoDB,tool
+Amazon Elastic Compute Cloud EC2,Amazon Elastic Compute Cloud EC2,tool
+Amazon Kinesis,Amazon Kinesis,tool
+Amazon Web Services AWS CloudFormation,Amazon Web Services AWS CloudFormation,tool
+Amazon Web Services AWS SageMaker,Amazon Web Services AWS SageMaker,tool
+Android SDK,Android SDK,tool
+Angular,Angular,tool
+Ansible,Ansible,tool
+Anti-phishing,Anti-phishing,tool
+Apache Cassandra,Apache Cassandra,tool
+Apache HBase,Apache HBase,tool
+Apache Hive,Apache Hive,tool
+Apache JMeter,Apache JMeter,tool
+Apache MXNet,Apache MXNet,tool
+Apache Maven,Apache Maven,tool
+Apache Solr,Apache Solr,tool
+Apache Struts,Apache Struts,tool
+Apache Subversion SVN,Apache Subversion SVN,tool
+Apache Tomcat,Apache Tomcat,tool
+Appium,Appium,tool
+Apple Safari,Apple Safari,tool
+Apple macOS,Apple macOS,tool
+Asana,Asana,tool
+Atlassian Bitbucket,Atlassian Bitbucket,tool
+Autodesk AutoCAD,Autodesk AutoCAD,tool
+Autodesk AutoCAD Civil 3D,Autodesk AutoCAD Civil 3D,tool
+Autodesk Maya,Autodesk Maya,tool
+Autodesk Revit,Autodesk Revit,tool
+Azure,Azure,tool
+BGP,BGP,tool
+Back-end Development,Back-end Development,concept
+Bash,Bash,tool
+Bentley MicroStation,Bentley MicroStation,tool
+Big Data,Big Data,concept
+BigQuery,BigQuery,tool
+Bing Ads,Bing Ads,tool
+Blink,Blink,tool
+Blockchain,Blockchain,concept
+Bootstrap,Bootstrap,tool
+BrightEdge,BrightEdge,tool
+Bugzilla,Bugzilla,tool
+Business Intelligence,Business Intelligence,concept
+C,C,tool
+C#,C#,tool
+C++,C++,tool
+CI/CD,CI/CD,concept
+CICS,CICS,tool
+CMS,CMS,tool
+CSS,CSS,tool
+Canva,Canva,tool
+Capacity planning,Capacity planning,tool
+Chatbot,Chatbot,tool
+Chef,Chef,tool
+Cisco IOS,Cisco IOS,tool
+Cisco Webex,Cisco Webex,tool
+Citrix XenApp,Citrix XenApp,tool
+Cloud Computing,Cloud Computing,concept
+Collaborative editing,Collaborative editing,tool
+Communication,Communication,concept
+Computational statistics,Computational statistics,tool
+Computer Vision,Computer Vision,concept
+Computer forensic,Computer forensic,tool
+Confluence,Confluence,tool
+Cost estimating,Cost estimating,tool
+Cryptography,Cryptography,concept
+DDL,DDL,tool
+DHCP,DHCP,tool
+DML,DML,tool
+DNS,DNS,tool
+DTS,DTS,tool
+Dassault Systemes SolidWorks,Dassault Systemes SolidWorks,tool
+Data Analysis,Data Analysis,concept
+Data Engineering,Data Engineering,concept
+Data Modeling,Data Modeling,concept
+Data Visualization,Data Visualization,concept
+Data Warehousing,Data Warehousing,concept
+Data dictionary,Data dictionary,tool
+Data mapping,Data mapping,tool
+Data validation,Data validation,tool
+Data warehouse,Data warehouse,tool
+Database Design,Database Design,concept
+Database capacity planning,Database capacity planning,tool
+Database cloning,Database cloning,tool
+Database management systems,Database management systems,tool
+Database security,Database security,tool
+Deep Learning,Deep Learning,concept
+Defect tracking,Defect tracking,tool
+DevOps,DevOps,concept
+Diagramming,Diagramming,tool
+Digital Marketing,Digital Marketing,concept
+Django,Django,tool
+Docker,Docker,tool
+Document management system,Document management system,tool
+Dropbox,Dropbox,tool
+Drupal,Drupal,tool
+Dynamic analysis,Dynamic analysis,tool
+Dynatrace,Dynatrace,tool
+EAI,EAI,tool
+EE,EE,tool
+EIGRP,EIGRP,tool
+ESRI ArcGIS,ESRI ArcGIS,tool
+ETL,ETL,concept
+Eclipse IDE,Eclipse IDE,tool
+Elasticsearch,Elasticsearch,tool
+Element management,Element management,tool
+Embarcadero Delphi,Embarcadero Delphi,tool
+Embedded systems development,Embedded systems development,tool
+Encryption,Encryption,tool
+Epic Systems,Epic Systems,tool
+Excel,Excel,tool
+Ext JS,Ext JS,tool
+Extensible markup language XML,Extensible markup language XML,tool
+Figma,Figma,tool
+Firewall,Firewall,tool
+Flask,Flask,tool
+Flow chart,Flow chart,tool
+Forth,Forth,tool
+Front-end Development,Front-end Development,concept
+Functional testing,Functional testing,tool
+Fund accounting,Fund accounting,tool
+GIS,GIS,tool
+GLBP,GLBP,tool
+Game Development,Game Development,concept
+Generative AI,Generative AI,concept
+Git,Git,tool
+GitHub,GitHub,tool
+GitLab,GitLab,tool
+Go,Go,tool
+Google Ads,Google Ads,tool
+Google Analytics,Google Analytics,tool
+Google Cloud,Google Cloud,tool
+Google Docs,Google Docs,tool
+Google Drive,Google Drive,tool
+Google Looker Analytics,Google Looker Analytics,tool
+Google Meet,Google Meet,tool
+Google Sheets,Google Sheets,tool
+Google Slides,Google Slides,tool
+Google Tag Manager,Google Tag Manager,tool
+Google Workspace,Google Workspace,tool
+Gradle,Gradle,tool
+Grafana Labs Grafana Cloud,Grafana Labs Grafana Cloud,tool
+GraphQL,GraphQL,tool
+HSRP,HSRP,tool
+Hadoop,Hadoop,tool
+Help desk,Help desk,tool
+Hibernate ORM,Hibernate ORM,tool
+HubSpot,HubSpot,tool
+Hugging Face,Hugging Face,tool
+Hypertext markup language HTML,Hypertext markup language HTML,tool
+IBM DB2,IBM DB2,tool
+IBM Rational ClearQuest,IBM Rational ClearQuest,tool
+IBM Terraform,IBM Terraform,tool
+IBM WebSphere,IBM WebSphere,tool
+IBM WebSphere MQ,IBM WebSphere MQ,tool
+IDE,IDE,tool
+IDS,IDS,tool
+IPS,IPS,tool
+Illustrator,Illustrator,tool
+Imperva SecureSphere,Imperva SecureSphere,tool
+InDesign,InDesign,tool
+InVision,InVision,tool
+Incident Response,Incident Response,concept
+Index tuning,Index tuning,tool
+Informatica,Informatica,tool
+Infrastructure as Code,Infrastructure as Code,concept
+Integration testing,Integration testing,tool
+Interaction Design,Interaction Design,concept
+Intuit QuickBooks,Intuit QuickBooks,tool
+JCL,JCL,tool
+JMS,JMS,tool
+JUnit,JUnit,tool
+Java,Java,tool
+JavaScript,JavaScript,tool
+JavaScript Object Notation JSON,JavaScript Object Notation JSON,tool
+JavaScript framework,JavaScript framework,tool
+Jenkins CI,Jenkins CI,tool
+Jest,Jest,tool
+Jira,Jira,tool
+Julia,Julia,tool
+Jupyter,Jupyter,tool
+Jupyter Notebook,Jupyter Notebook,tool
+Kafka,Kafka,tool
+Kali Linux,Kali Linux,tool
+Keras,Keras,tool
+KornShell,KornShell,tool
+Kotlin,Kotlin,tool
+Kubeflow,Kubeflow,tool
+Kubernetes,Kubernetes,tool
+LAMP Stack,LAMP Stack,tool
+LAN,LAN,tool
+LangChain,LangChain,tool
+Leadership,Leadership,concept
+LexisNexis,LexisNexis,tool
+Linux,Linux,tool
+Load testing,Load testing,tool
+Loom,Loom,tool
+Lua,Lua,tool
+MATLAB,MATLAB,tool
+MDM,MDM,tool
+MEDITECH,MEDITECH,tool
+MIS,MIS,tool
+MITRE ATT&CK,MITRE ATT&CK,tool
+Machine Learning,Machine Learning,concept
+MariaDB,MariaDB,tool
+Marketo Marketing Automation,Marketo Marketing Automation,tool
+McAfee,McAfee,tool
+Metasploit,Metasploit,tool
+MicroStrategy,MicroStrategy,tool
+Microservices,Microservices,concept
+Microservices Architecture,Microservices Architecture,tool
+Microsoft ASP.NET,Microsoft ASP.NET,tool
+Microsoft ASP.NET Core MVC,Microsoft ASP.NET Core MVC,tool
+Microsoft Access,Microsoft Access,tool
+Microsoft Active Directory,Microsoft Active Directory,tool
+Microsoft Azure Data Factory,Microsoft Azure Data Factory,tool
+Microsoft Azure DevOps Services,Microsoft Azure DevOps Services,tool
+Microsoft Dynamics,Microsoft Dynamics,tool
+Microsoft Dynamics GP,Microsoft Dynamics GP,tool
+Microsoft Exchange,Microsoft Exchange,tool
+Microsoft Outlook,Microsoft Outlook,tool
+Microsoft Playwright,Microsoft Playwright,tool
+Microsoft Power Automate,Microsoft Power Automate,tool
+Microsoft Power Platform,Microsoft Power Platform,tool
+Microsoft Project,Microsoft Project,tool
+Microsoft Team Foundation Server,Microsoft Team Foundation Server,tool
+Microsoft Teams,Microsoft Teams,tool
+Microsoft Visio,Microsoft Visio,tool
+Microsoft Visual Basic,Microsoft Visual Basic,tool
+Microsoft Visual Studio,Microsoft Visual Studio,tool
+Microsoft Windows,Microsoft Windows,tool
+Microsoft Windows Server,Microsoft Windows Server,tool
+Microsoft Word,Microsoft Word,tool
+Migration,Migration,tool
+Minitab,Minitab,tool
+Mlflow,Mlflow,tool
+Mobile Development,Mobile Development,concept
+MongoDB,MongoDB,tool
+Mozilla Firefox,Mozilla Firefox,tool
+MuleSoft,MuleSoft,tool
+MySQL,MySQL,tool
+NAS,NAS,tool
+NIPS,NIPS,tool
+NLP,NLP,concept
+Nagios,Nagios,tool
+National Instruments LabVIEW,National Instruments LabVIEW,tool
+Neo4j,Neo4j,tool
+NetSuite ERP,NetSuite ERP,tool
+Network Security,Network Security,concept
+Network architecture design,Network architecture design,tool
+Network documentation,Network documentation,tool
+Network management,Network management,tool
+Network security auditing,Network security auditing,tool
+Network storage,Network storage,tool
+Networking,Networking,concept
+Nmap,Nmap,tool
+NoSQL,NoSQL,tool
+Node.js,Node.js,tool
+NumPy,NumPy,tool
+OSPF,OSPF,tool
+Object-Oriented Programming,Object-Oriented Programming,concept
+Objective C,Objective C,tool
+Optimization,Optimization,concept
+Oracle Cloud,Oracle Cloud,tool
+Oracle DB,Oracle DB,tool
+Oracle Data Guard,Oracle Data Guard,tool
+Oracle Eloqua,Oracle Eloqua,tool
+Oracle Enterprise Manager,Oracle Enterprise Manager,tool
+Oracle Fusion Middleware,Oracle Fusion Middleware,tool
+Oracle Hyperion,Oracle Hyperion,tool
+Oracle JDBC,Oracle JDBC,tool
+Oracle Java 2 Platform Enterprise Edition J2EE,Oracle Java 2 Platform Enterprise Edition J2EE,tool
+Oracle PL/SQL,Oracle PL/SQL,tool
+Oracle PeopleSoft,Oracle PeopleSoft,tool
+Oracle Primavera Enterprise Project Portfolio Management,Oracle Primavera Enterprise Project Portfolio Management,tool
+Oracle SQL Developer,Oracle SQL Developer,tool
+Oracle Unified Directory,Oracle Unified Directory,tool
+Oracle WebLogic Server,Oracle WebLogic Server,tool
+PHP,PHP,tool
+PLM,PLM,tool
+Packet analysis,Packet analysis,tool
+Pascal,Pascal,tool
+Patch management,Patch management,tool
+Penetration Testing,Penetration Testing,concept
+Perforce,Perforce,tool
+Perforce Helix,Perforce Helix,tool
+Perl,Perl,tool
+Photoshop,Photoshop,tool
+Ping Identity,Ping Identity,tool
+Pinterest,Pinterest,tool
+Platform as a service PaaS,Platform as a service PaaS,tool
+Portswigger BurP Suite,Portswigger BurP Suite,tool
+PostgreSQL,PostgreSQL,tool
+Postman,Postman,tool
+Power BI,Power BI,tool
+PowerPoint,PowerPoint,tool
+PowerShell,PowerShell,tool
+Problem Solving,Problem Solving,concept
+Procore,Procore,tool
+Project Management,Project Management,concept
+Prometheus,Prometheus,tool
+Prototyping,Prototyping,concept
+Puppet,Puppet,tool
+PySpark,PySpark,tool
+PyTorch,PyTorch,tool
+Python,Python,tool
+Qualys Cloud Platform,Qualys Cloud Platform,tool
+QuarkXPress,QuarkXPress,tool
+R,R,tool
+RAC,RAC,tool
+RACF,RACF,tool
+REST APIs,REST APIs,concept
+REST Assured,REST Assured,tool
+RESTful API,RESTful API,tool
+RTOS,RTOS,tool
+RabbitMQ,RabbitMQ,tool
+Rapid7 Nexpose,Rapid7 Nexpose,tool
+React,React,tool
+React Native,React Native,tool
+React Redux,React Redux,tool
+Red Hat OpenShift,Red Hat OpenShift,tool
+Redis,Redis,tool
+Redshift,Redshift,tool
+Regression testing,Regression testing,tool
+Relational database management,Relational database management,tool
+Relational database management system,Relational database management system,tool
+Remote access,Remote access,tool
+Requirements Analysis,Requirements Analysis,concept
+Requirements management,Requirements management,tool
+Risk Assessment,Risk Assessment,concept
+Root cause analysis,Root cause analysis,tool
+Ruby,Ruby,tool
+Ruby on Rails,Ruby on Rails,tool
+Rust programming language,Rust programming language,tool
+SAM,SAM,tool
+SAML,SAML,tool
+SAN,SAN,tool
+SAP,SAP,tool
+SAP Business Objects,SAP Business Objects,tool
+SAP ERP,SAP ERP,tool
+SAS,SAS,tool
+SAS JMP,SAS JMP,tool
+SASS,SASS,tool
+SCADA,SCADA,tool
+SEO,SEO,concept
+SIP,SIP,tool
+SMTP,SMTP,tool
+SNMP,SNMP,tool
+SPSS,SPSS,tool
+SQL,SQL,tool
+SQL Server,SQL Server,tool
+SSAS,SSAS,tool
+SSIS,SSIS,tool
+SSP,SSP,tool
+SSRS,SSRS,tool
+Salesforce,Salesforce,tool
+Salesforce Visualforce,Salesforce Visualforce,tool
+Scala,Scala,tool
+Scheme,Scheme,tool
+SciPy,SciPy,tool
+Scikit-learn,Scikit-learn,tool
+Screaming Frog SEO Spider,Screaming Frog SEO Spider,tool
+Security incident management,Security incident management,tool
+Security risk assessment,Security risk assessment,tool
+Security testing,Security testing,tool
+Selenium,Selenium,tool
+Semrush,Semrush,tool
+ServiceNow,ServiceNow,tool
+SharePoint,SharePoint,tool
+Shell script,Shell script,tool
+Shiny,Shiny,tool
+Silver Peak,Silver Peak,tool
+Single sign-on SSO,Single sign-on SSO,tool
+Skype,Skype,tool
+Slack,Slack,tool
+Smartsheet,Smartsheet,tool
+Snort,Snort,tool
+Snowflake,Snowflake,tool
+Software Testing,Software Testing,concept
+Software development tools,Software development tools,tool
+Software libraries,Software libraries,tool
+SolarWinds,SolarWinds,tool
+Solidity,Solidity,tool
+SonarQube,SonarQube,tool
+Spark,Spark,tool
+Splunk,Splunk,tool
+Spring Boot,Spring Boot,tool
+Spring Framework,Spring Framework,tool
+StataCorp Stata,StataCorp Stata,tool
+Static analysis,Static analysis,tool
+Statistics,Statistics,concept
+Storage management,Storage management,tool
+Stress testing,Stress testing,tool
+Swift,Swift,tool
+System testing,System testing,tool
+Systems integration,Systems integration,tool
+Tableau,Tableau,tool
+Tcpdump,Tcpdump,tool
+Tenable Nessus,Tenable Nessus,tool
+TensorFlow,TensorFlow,tool
+Teradata Database,Teradata Database,tool
+Test design,Test design,tool
+Test implementation,Test implementation,tool
+TestNG,TestNG,tool
+Time reporting,Time reporting,tool
+Transact-SQL,Transact-SQL,tool
+Trimble SketchUp Pro,Trimble SketchUp Pro,tool
+Twitter,Twitter,tool
+TypeScript,TypeScript,tool
+UML,UML,tool
+UNIX,UNIX,tool
+UNIX Shell,UNIX Shell,tool
+UX Research,UX Research,concept
+Ubuntu,Ubuntu,tool
+Unit testing,Unit testing,tool
+Unity,Unity,tool
+Unreal Technology Unreal Engine,Unreal Technology Unreal Engine,tool
+Usability testing,Usability testing,tool
+UserZoom,UserZoom,tool
+VBA,VBA,tool
+VMware,VMware,tool
+VPN,VPN,tool
+VRRP,VRRP,tool
+Vector database,Vector database,tool
+Veritas NetBackup,Veritas NetBackup,tool
+Version Control,Version Control,concept
+Video editing,Video editing,tool
+Visual Design,Visual Design,concept
+Vue.js,Vue.js,tool
+Vulnerability Management,Vulnerability Management,concept
+WAN,WAN,tool
+Watir,Watir,tool
+Web Development,Web Development,concept
+Web application,Web application,tool
+Web server,Web server,tool
+WhatsApp,WhatsApp,tool
+Wireframing,Wireframing,concept
+Wireshark,Wireshark,tool
+WordPress,WordPress,tool
+Workday,Workday,tool
+Workflow,Workflow,tool
+XGBoost,XGBoost,tool
+Xcode,Xcode,tool
+Zabbix,Zabbix,tool
+Zoom,Zoom,tool
+eMASS,eMASS,tool
+iOS SDK,iOS SDK,tool
+jQuery,jQuery,tool
+pandas,pandas,tool
+seoClarity,seoClarity,tool
+spaCy,spaCy,tool
+webpack,webpack,tool

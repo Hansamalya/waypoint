@@ -1,0 +1,17 @@
+Priya Raman
+Chennai, Tamil Nadu · priya.raman@example.com
+
+SUMMARY
+Data analyst with 2 years of experience turning messy business data into dashboards and decisions. Strong problem-solving and communication skills.
+
+EDUCATION
+B.Tech in Information Technology, Anna University, 2023 (CGPA 8.4)
+
+EXPERIENCE
+Junior Data Analyst, Tata Consultancy Services (2023 to present). Built weekly sales dashboards in Tableau and Power BI used by 40 regional managers. Wrote SQL queries against a MySQL warehouse and automated reporting with Python (pandas). Presented findings to leadership every month.
+
+PROJECTS
+Customer churn analysis in Python with statistics and regression. Excel VBA macro that cut monthly reconciliation from two days to two hours.
+
+SKILLS
+SQL, MySQL, Python, Excel, Tableau, Power BI, Git, statistics, data visualization, critical thinking, teamwork

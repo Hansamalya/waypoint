@@ -1,0 +1,14 @@
+Karthik Subramanian
+Hosur, Tamil Nadu · karthik.s@example.com
+
+SUMMARY
+Mechanical engineer with 3 years in automotive component design and manufacturing.
+
+EDUCATION
+B.E. Mechanical Engineering, PSG College of Technology, 2021
+
+EXPERIENCE
+Design Engineer, Ashok Leyland (2021 to present). Designed brackets and housings in SolidWorks and AutoCAD, ran FEA in ANSYS, and analysed test data in MATLAB and Excel. Worked with the production team on quality control and cost reduction.
+
+SKILLS
+SolidWorks, AutoCAD, ANSYS, MATLAB, Excel, manufacturing, engineering, physics, problem-solving, research
